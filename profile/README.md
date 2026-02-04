@@ -1,5 +1,7 @@
 <p align="center" style="padding-top:20px">
-<h1 align="center">Commet</h1>
+
+<img src="https://raw.githubusercontent.com/commetchat/.github/main/assets/banner.png">
+
 <p align="center">Your space to connect</p>
 
 <p align="center">
@@ -14,6 +16,6 @@
     </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/commetchat/.github/main/assets/banner.png">
+<img src="https://raw.githubusercontent.com/commetchat/.github/main/assets/banner_demo.png">
 
 We are building Commet, a client for [Matrix](https://matrix.org) focused on providing a feature rich experience while maintaining a simple interface. The goal is to build a secure, privacy respecting app without compromising on the features you have come to expect from a modern chat client.
