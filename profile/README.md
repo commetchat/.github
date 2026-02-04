@@ -24,5 +24,5 @@
 
 We are building Commet, a client for [Matrix](https://matrix.org) focused on providing a feature rich experience while maintaining a simple interface. The goal is to build a secure, privacy respecting app without compromising on the features you have come to expect from a modern chat client.
 
-
+<p align="center" style="padding-top:20px">
 <img src="https://raw.githubusercontent.com/commetchat/.github/main/assets/banner_demo.png">
